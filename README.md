@@ -3,12 +3,12 @@
 ### To backup all of your currently installed package
 #### Backup package in official repository
 ```bash
-pacman -Qqen > pkglist-repo.txt
+pacman -Qqe > pkglist.txt
 ```
 
 #### Backup package in arch user repository (AUR)
 ```bash
-pacman -Qqem > pkglist-aur.txt
+pacman -Qqem > foreignpkglist.txt
 ```
 
 ### To restore / re-install all of your package
