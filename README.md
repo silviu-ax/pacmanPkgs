@@ -1,0 +1,2 @@
+# pacmanPkgs
+pacman packages list
