@@ -1,7 +1,5 @@
 # Arch-based Linux Package List Backup and Restore
 
-This repo is for my package list backup so that i can re-install all my package without remembering all of them. You can also use the command below to backup and re-install your package on new installation.
-
 ### To backup all of your currently installed package
 #### Backup package in official repository
 ```bash
@@ -41,4 +39,3 @@ and then run the following command:
 ```bash
 pactl load-module module-bluetooth-discover
 ```
-That's all.
