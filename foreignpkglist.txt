@@ -1,2 +1,4 @@
 google-chrome
+openrazer-meta
+polychromatic
 yay
